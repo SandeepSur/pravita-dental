@@ -164,9 +164,11 @@ h1, h2, h3, h4 {
 }
 
 .nav-logo {
-    height: 80px;
+    height: 100px;
     width: auto;
     object-fit: contain;
+    transform: scale(1.6);
+    transform-origin: left center;
 }
 
 .logo i {
